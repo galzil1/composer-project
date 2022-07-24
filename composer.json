@@ -2,6 +2,7 @@
 	"name": "galzil1/my-project",
     	"description": "composer project test", 	
 	"require": {
-        	"roots/sage": "10.2.0"
+        	"roots/sage": "10.2.0",
+		"monolog/monolog": "3.0.0"
     	}
 }

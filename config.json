@@ -1,0 +1,10 @@
+{
+    "repositories": [{
+            "type": "composer",
+            "url": "https://productdemo.jfrog.io/artifactory/api/composer/gal-test-php"
+        },
+        {
+            "packagist": false
+        }
+    ]
+}
